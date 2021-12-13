@@ -1,1 +1,1 @@
-# instagram-clone
+- This is an Instagram clone created by - Naveen Das.
